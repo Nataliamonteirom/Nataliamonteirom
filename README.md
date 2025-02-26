@@ -2,7 +2,7 @@
 
 **`Estudante de programação`**
 
-Olá! Me chamo Natalia Monteiro, sou um estudante de Ciência da Computação, explorando o mundo do HTML, CSS e Javascript. tranformando café em código front-end!
+Olá! Me chamo Natalia Monteiro, sou um estudante de Ciência da Computação, explorando o mundo do HTML, CSS e Javascript. transformando café em código front-end!
 
 <div> 
   <a href="https://www.instagram.com/nataliamonteirom?igsh=em8zOHczcnVoaWZh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
