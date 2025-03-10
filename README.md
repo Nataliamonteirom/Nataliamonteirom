@@ -77,13 +77,14 @@ Olá! Me chamo Natalia Monteiro, sou uma estudante de Ciência da Computação, 
 
 ### 📊 Estatísticas
 
-<img 
+<p>
+  <img 
     align="left" 
-    alt="GitHub stats" 
-    height="200px" 
+    alt="GitHub Stats" 
+    height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=NataliaMonteirom&show_icons=true&theme=tokyonight&include_all_commits=&locale=pt-br" 
-/>
+    src="https://github-readme-stats.vercel.app/api?username=Nataliamonteirom&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
 <img 
     align="left" 
